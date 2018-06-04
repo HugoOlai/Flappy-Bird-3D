@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 940111f99b70a4052844f10f7a12fedf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FELPUDO_BONE_ASA_DIR01
+    100004: FELPUDO_BONE_ASA_DIR02
+    100006: FELPUDO_BONE_ASA_DIR03
+    100008: FELPUDO_BONE_ASA_ESQ01
+    100010: FELPUDO_BONE_ASA_ESQ02
+    100012: FELPUDO_BONE_ASA_ESQ03
+    100014: FELPUDO_BONE_CAUDA01
+    100016: FELPUDO_BONE_CAUDA02
+    100018: FELPUDO_BONE_CAUDA03
+    100020: FELPUDO_BONE_GRAVATA01
+    100022: FELPUDO_BONE_GRAVATA02
+    100024: FELPUDO_BONE_GRAVATA03
+    100026: FELPUDO_BONE_GRAVATA04
+    100028: FELPUDO_BONE_PATA_DIR01
+    100030: FELPUDO_BONE_PATA_DIR02
+    100032: FELPUDO_BONE_PATA_DIR03
+    100034: FELPUDO_BONE_PATA_DIR04
+    100036: FELPUDO_BONE_PATA_ESQ01
+    100038: FELPUDO_BONE_PATA_ESQ02
+    100040: FELPUDO_BONE_PATA_ESQ03
+    100042: FELPUDO_BONE_PATA_ESQ04
+    100044: FELPUDO_BONE_SPINE
+    100046: FELPUDO_CORPO
+    100048: FELPUDO_OLHO_DIR
+    100050: FELPUDO_OLHO_ESQ
+    100052: FELPUDO_SOBR_DIR
+    100054: FELPUDO_SOBR_ESQ
+    400000: //RootNode
+    400002: FELPUDO_BONE_ASA_DIR01
+    400004: FELPUDO_BONE_ASA_DIR02
+    400006: FELPUDO_BONE_ASA_DIR03
+    400008: FELPUDO_BONE_ASA_ESQ01
+    400010: FELPUDO_BONE_ASA_ESQ02
+    400012: FELPUDO_BONE_ASA_ESQ03
+    400014: FELPUDO_BONE_CAUDA01
+    400016: FELPUDO_BONE_CAUDA02
+    400018: FELPUDO_BONE_CAUDA03
+    400020: FELPUDO_BONE_GRAVATA01
+    400022: FELPUDO_BONE_GRAVATA02
+    400024: FELPUDO_BONE_GRAVATA03
+    400026: FELPUDO_BONE_GRAVATA04
+    400028: FELPUDO_BONE_PATA_DIR01
+    400030: FELPUDO_BONE_PATA_DIR02
+    400032: FELPUDO_BONE_PATA_DIR03
+    400034: FELPUDO_BONE_PATA_DIR04
+    400036: FELPUDO_BONE_PATA_ESQ01
+    400038: FELPUDO_BONE_PATA_ESQ02
+    400040: FELPUDO_BONE_PATA_ESQ03
+    400042: FELPUDO_BONE_PATA_ESQ04
+    400044: FELPUDO_BONE_SPINE
+    400046: FELPUDO_CORPO
+    400048: FELPUDO_OLHO_DIR
+    400050: FELPUDO_OLHO_ESQ
+    400052: FELPUDO_SOBR_DIR
+    400054: FELPUDO_SOBR_ESQ
+    2300000: FELPUDO_OLHO_DIR
+    2300002: FELPUDO_OLHO_ESQ
+    2300004: FELPUDO_SOBR_DIR
+    2300006: FELPUDO_SOBR_ESQ
+    3300000: FELPUDO_OLHO_DIR
+    3300002: FELPUDO_OLHO_ESQ
+    3300004: FELPUDO_SOBR_DIR
+    3300006: FELPUDO_SOBR_ESQ
+    4300000: FELPUDO_CORPO
+    4300002: FELPUDO_OLHO_ESQ
+    4300004: FELPUDO_SOBR_ESQ
+    4300006: FELPUDO_OLHO_DIR
+    4300008: FELPUDO_SOBR_DIR
+    7400000: loopVoando
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: FELPUDO_CORPO
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: loopVoando
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FELPUDO_BONE_SPINE
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_DIR01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_DIR01/FELPUDO_BONE_ASA_DIR02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_DIR01/FELPUDO_BONE_ASA_DIR02/FELPUDO_BONE_ASA_DIR03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_ESQ01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_ESQ01/FELPUDO_BONE_ASA_ESQ02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_ASA_ESQ01/FELPUDO_BONE_ASA_ESQ02/FELPUDO_BONE_ASA_ESQ03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_CAUDA01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_CAUDA01/FELPUDO_BONE_CAUDA02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_CAUDA01/FELPUDO_BONE_CAUDA02/FELPUDO_BONE_CAUDA03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_GRAVATA04
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_GRAVATA04/FELPUDO_BONE_GRAVATA01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_GRAVATA04/FELPUDO_BONE_GRAVATA01/FELPUDO_BONE_GRAVATA02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_GRAVATA04/FELPUDO_BONE_GRAVATA01/FELPUDO_BONE_GRAVATA02/FELPUDO_BONE_GRAVATA03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_DIR01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_DIR01/FELPUDO_BONE_PATA_DIR02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_DIR01/FELPUDO_BONE_PATA_DIR02/FELPUDO_BONE_PATA_DIR03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_DIR01/FELPUDO_BONE_PATA_DIR02/FELPUDO_BONE_PATA_DIR03/FELPUDO_BONE_PATA_DIR04
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_ESQ01
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_ESQ01/FELPUDO_BONE_PATA_ESQ02
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_ESQ01/FELPUDO_BONE_PATA_ESQ02/FELPUDO_BONE_PATA_ESQ03
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_BONE_PATA_ESQ01/FELPUDO_BONE_PATA_ESQ02/FELPUDO_BONE_PATA_ESQ03/FELPUDO_BONE_PATA_ESQ04
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_OLHO_DIR
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_OLHO_DIR/FELPUDO_SOBR_DIR
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_OLHO_ESQ
+        weight: 1
+      - path: FELPUDO_BONE_SPINE/FELPUDO_OLHO_ESQ/FELPUDO_SOBR_ESQ
+        weight: 1
+      - path: FELPUDO_CORPO
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
